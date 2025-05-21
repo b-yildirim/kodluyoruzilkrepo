@@ -1,0 +1,30 @@
+/*external css doyası*/
+/* body {
+  background-color: bisque;
+}
+h2 {
+  color: hwb(130 11% 55%);
+  font-size: 48px;
+  text-transform: capitalize;
+  font-family: Arial, Helvetica, sans-serif ;
+} */
+/* ctrl+ö imleç hangi satırdaysa onu açıklama satırı yapar */
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+.text-red {
+  color: red;
+}
+
+.fs-small{
+font-size: 10px;
+}
+.fs-medium {
+  font-size: 20px;
+}
+.fs-30 {
+  font-size: 30px;
+}
+#first-article {
+  font-size: 20px;
+}
