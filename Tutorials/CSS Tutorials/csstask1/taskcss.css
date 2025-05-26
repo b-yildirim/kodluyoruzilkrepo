@@ -1,0 +1,31 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  width: 960px;
+}
+ul,
+ol {
+  list-style-position: inside;
+  padding: 0;
+  margin: 0 auto; /* listeyi ortalar */
+  text-align: left; /* metni sola hizalar, daha düzgün görünür */
+  width: fit-content; /* genişliği içeriğe göre ayarla */
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  color: blueviolet;
+}
+h1 {
+  color: hsl(0, 84%, 52%);
+}
+h4 {
+  color: rgb(187, 172, 106);
+}
+p {
+  text-align: left;
+  margin: 2%;
+}
